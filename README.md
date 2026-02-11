@@ -118,6 +118,8 @@ grammar_name ;; https://bunpro.jp/grammar_points/your-point
 
 Drop as many `.txt` files into `data/` as you like. They all appear in the level selector dropdown.
 
+The links don't have to be bunpro links. For example, if you are studying another language than Japanese, you can link to another resource you like.
+
 ---
 
 ## How It Works
