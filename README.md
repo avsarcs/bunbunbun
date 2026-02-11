@@ -1,6 +1,6 @@
 # Grammar Drill 文法ドリル
 
-A spaced-repetition grammar practice app for Japanese learners (or any language). The main idea is writing sentences again and again using grammar points from a certain level to hone the structure into your memory. Grammar points appear as cards weighted by difficulty — the more you struggle with something, the more it shows up. Rate each card after writing a sentence, and watch your weak points gradually disappear.
+A spaced-repetition grammar practice app for Japanese learners (or any language). The main idea is writing sentences again and again using grammar points from a certain level to hone the structure into your memory. Grammar points appear as cards weighted by difficulty — the more you struggle with something, the more it shows up. Rate each card after writing a sentence.
 
 Themes: Wabi-sabi Dark, Moonlight, Sakura Light, Forest, Solarized Dark, High Contrast
 
