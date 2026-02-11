@@ -1,0 +1,56 @@
+name: Build and Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  build-windows:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install PyInstaller
+        run: pip install pyinstaller
+
+      - name: Build EXE
+        run: pyinstaller --onefile --windowed --name GrammarDrill main.py
+
+      - name: Upload Windows binary
+        uses: softprops/action-gh-release@v1
+        with:
+          files: dist/GrammarDrill.exe
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  build-linux:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y python3-tk
+          pip install pyinstaller
+
+      - name: Build Linux binary
+        run: |
+          pyinstaller --onefile --name GrammarDrill-linux main.py
+          chmod +x dist/GrammarDrill-linux
+
+      - name: Upload Linux binary
+        uses: softprops/action-gh-release@v1
+        with:
+          files: dist/GrammarDrill-linux
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

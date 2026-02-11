@@ -1,0 +1,23 @@
+# User data — never commit personal progress/history
+user_data/
+
+# PyInstaller build artifacts
+dist/
+build/
+*.spec
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo

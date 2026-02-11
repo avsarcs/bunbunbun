@@ -1,0 +1,129 @@
+だ ;; https://bunpro.jp/grammar_points/%E3%81%A0
+です ;; https://bunpro.jp/grammar_points/%E3%81%A7%E3%81%99
+は ;; https://bunpro.jp/grammar_points/%E3%81%AF
+も ;; https://bunpro.jp/grammar_points/%E3%82%82
+これ ;; https://bunpro.jp/grammar_points/%E3%81%93%E3%82%8C
+それ ;; https://bunpro.jp/grammar_points/%E3%81%9D%E3%82%8C
+あれ ;; https://bunpro.jp/grammar_points/%E3%81%82%E3%82%8C
+良（い）い ;; https://bunpro.jp/grammar_points/%E3%81%84%E3%81%84
+の ;; https://bunpro.jp/grammar_points/%E3%81%AE
+い-Adjective ;; https://bunpro.jp/grammar_points/%E3%81%84-adjectives
+な-Adjective ;; https://bunpro.jp/grammar_points/%E3%81%AA-adjectives
+か ;; https://bunpro.jp/grammar_points/%E3%81%8B
+が ;; https://bunpro.jp/grammar_points/%E3%81%8C
+よ ;; https://bunpro.jp/grammar_points/%E3%82%88
+ね ;; https://bunpro.jp/grammar_points/%E3%81%AD
+る-Verb (Dictionary) ;; https://bunpro.jp/grammar_points/%E3%82%8B-Verbs
+う-Verb (Dictionary) ;; https://bunpro.jp/grammar_points/%E3%81%86-Verbs
+を ;; https://bunpro.jp/grammar_points/%E3%82%92
+ます ;; https://bunpro.jp/grammar_points/polite-verb-endings
+る-Verb (Negative) ;; https://bunpro.jp/grammar_points/%E3%82%8Bverb-%E3%81%AA%E3%81%84
+う-Verb (Negative) ;; https://bunpro.jp/grammar_points/%E3%81%86verb--%E3%81%AA%E3%81%84
+と ;; https://bunpro.jp/grammar_points/%E3%81%A8-and
+ここ ;; https://bunpro.jp/grammar_points/%E3%81%93%E3%81%93
+そこ ;; https://bunpro.jp/grammar_points/%E3%81%9D%E3%81%93
+あそこ ;; https://bunpro.jp/grammar_points/%E3%81%82%E3%81%9D%E3%81%93
+この ;; https://bunpro.jp/grammar_points/%E3%81%93%E3%81%AE
+その ;; https://bunpro.jp/grammar_points/%E3%81%9D%E3%81%AE
+あの ;; https://bunpro.jp/grammar_points/%E3%81%82%E3%81%AE
+で ;; https://bunpro.jp/grammar_points/%E3%81%A7
+に ;; https://bunpro.jp/grammar_points/%E3%81%AB
+か ;; https://bunpro.jp/grammar_points/%E3%81%8B-or
+と ;; https://bunpro.jp/grammar_points/%E3%81%A8-with
+でしょう ;; https://bunpro.jp/grammar_points/%E3%81%A7%E3%81%97%E3%82%87%E3%81%86
+だろう ;; https://bunpro.jp/grammar_points/%E3%81%A0%E3%82%8D%E3%81%86
+が有（あ）る ;; https://bunpro.jp/grammar_points/%E3%81%8C%E3%81%82%E3%82%8B
+が居（い）る ;; https://bunpro.jp/grammar_points/%E3%81%8C%E3%81%84%E3%82%8B
+のは・のが ;; https://bunpro.jp/grammar_points/%E3%81%AE%E3%81%AF
+へ行（い）く ;; https://bunpro.jp/grammar_points/%E3%81%B8%E3%81%84%E3%81%8F
+する ;; https://bunpro.jp/grammar_points/%E3%81%99%E3%82%8B
+来（く）る ;; https://bunpro.jp/grammar_points/%E3%81%8F%E3%82%8B
+で ;; https://bunpro.jp/grammar_points/%E3%81%A7-by
+～て (Conjunction) ;; https://bunpro.jp/grammar_points/verb-%E3%81%A6
+～て (Sequence) ;; https://bunpro.jp/grammar_points/verb-%E3%81%A6-b
+～て (Adjectives and Nouns) ;; https://bunpro.jp/grammar_points/adjective-%E3%81%A6-noun-%E3%81%A7
+～て (Qualities and States) ;; https://bunpro.jp/grammar_points/adjective-%E3%81%A6-b
+誰（だれ） ;; https://bunpro.jp/grammar_points/%E3%81%A0%E3%82%8C
+どれ ;; https://bunpro.jp/grammar_points/%E3%81%A9%E3%82%8C
+どの ;; https://bunpro.jp/grammar_points/%E3%81%A9%E3%81%AE
+どこ ;; https://bunpro.jp/grammar_points/%E3%81%A9%E3%81%93
+沢山（たくさん） ;; https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%8F%E3%81%95%E3%82%93
+結構（けっこう） ;; https://bunpro.jp/grammar_points/%E3%81%91%E3%81%A3%E3%81%93%E3%81%86
+だけ ;; https://bunpro.jp/grammar_points/%E3%81%A0%E3%81%91
+が ;; https://bunpro.jp/grammar_points/%E3%81%8C-but
+から ;; https://bunpro.jp/grammar_points/%E3%81%8B%E3%82%89-because
+から ;; https://bunpro.jp/grammar_points/%E3%81%8B%E3%82%89
+前（まえ）に ;; https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%88%E3%81%AB
+けれども ;; https://bunpro.jp/grammar_points/%E3%81%91%E3%82%8C%E3%81%A9%E3%82%82
+の中（なか）で～が一番（いちばん） ;; https://bunpro.jp/grammar_points/%E3%81%AE%E3%81%AA%E3%81%84%E3%81%A7-%E3%81%8C%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93
+になる・くなる ;; https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%AA%E3%82%8B-%E3%81%8F%E3%81%AA%E3%82%8B
+Noun + まで ;; https://bunpro.jp/grammar_points/noun-%E3%81%BE%E3%81%A7
+たい ;; https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%84
+～て下（くだ）さい ;; https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84
+くらい ① ;; https://bunpro.jp/grammar_points/%E3%81%8F%E3%82%89%E3%81%841
+ので ;; https://bunpro.jp/grammar_points/%E3%81%AE%E3%81%A7
+～たことがある ;; https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%93%E3%81%A8%E3%81%8C%E3%81%82%E3%82%8B
+～てから ;; https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%8B%E3%82%89
+～ないで下（くだ）さい ;; https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%84%E3%81%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84
+な (Prohibitive) ;; https://bunpro.jp/grammar_points/%E3%81%AA
+～てはいけない ;; https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%AF%E3%81%84%E3%81%91%E3%81%AA%E3%81%84
+～た方（ほう）がいい ;; https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%BB%E3%81%86%E3%81%8C%E3%81%84%E3%81%84
+ない方（ほう）がいい ;; https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%84%E3%81%BB%E3%81%86%E3%81%8C%E3%81%84%E3%81%84
+ましょう ;; https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%97%E3%82%87%E3%81%86
+好（す）き ;; https://bunpro.jp/grammar_points/%E3%81%99%E3%81%8D
+嫌（きら）い ;; https://bunpro.jp/grammar_points/%E3%81%8D%E3%82%89%E3%81%84
+何（なに） + か ;; https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%AB%E3%81%8B-%E3%81%AA%E3%81%AB%E3%82%82
+(Adjective) + のは ;; https://bunpro.jp/grammar_points/adjective-%E3%81%AE-%E3%81%AF
+の ;; https://bunpro.jp/grammar_points/%E3%81%AE-noun-ommission
+誰（だれ）か・どこか・誰（だれ）も・どこも ;; https://bunpro.jp/grammar_points/%E8%AA%B0%E3%81%8B-%E3%81%A9%E3%81%93%E3%81%8B-%E8%AA%B0%E3%82%82-%E3%81%A9%E3%81%93%E3%82%82
+あげる ;; https://bunpro.jp/grammar_points/%E3%81%82%E3%81%92%E3%82%8B
+くれる ;; https://bunpro.jp/grammar_points/%E3%81%8F%E3%82%8C%E3%82%8B
+貰（もら）う ;; https://bunpro.jp/grammar_points/%E3%82%82%E3%82%89%E3%81%86
+まだ ;; https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%A0
+より～の方（ほう）が ;; https://bunpro.jp/grammar_points/%E3%82%88%E3%82%8A-%E3%81%AE%E3%81%BB%E3%81%86%E3%81%8C
+なくちゃ・なきゃ ;; https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%8F%E3%81%A1%E3%82%83-%E3%81%AA%E3%81%8D%E3%82%83
+ましょうか ;; https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%E3%81%8B
+過（す）ぎる ;; https://bunpro.jp/grammar_points/%E3%81%99%E3%81%8E%E3%82%8B
+のが上手（じょうず） ;; https://bunpro.jp/grammar_points/%E3%81%AE%E3%81%8C%E3%81%98%E3%82%87%E3%81%86%E3%81%9A
+たり～たりする ;; https://bunpro.jp/grammar_points/%E3%81%9F%E3%82%8A-%E3%81%9F%E3%82%8A%E3%81%99%E3%82%8B
+つもりだ ;; https://bunpro.jp/grammar_points/%E3%81%A4%E3%82%82%E3%82%8A%E3%81%A0
+や ;; https://bunpro.jp/grammar_points/%E3%82%84
+ませんか ;; https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B
+まだ～ていません ;; https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%A0-%E3%81%A6%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93
+にする ;; https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%99%E3%82%8B
+のが下手（へた） ;; https://bunpro.jp/grammar_points/%E3%81%AE%E3%81%8C%E3%81%B8%E3%81%9F
+なくてはならない ;; https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%8F%E3%81%A6%E3%81%AF%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84
+がある + (Noun) ;; https://bunpro.jp/grammar_points/%E3%81%8C%E3%81%82%E3%82%8B-noun
+と ;; https://bunpro.jp/grammar_points/%E3%81%A8
+～た + (Noun) ;; https://bunpro.jp/grammar_points/verb-%E3%81%9F-noun
+って ;; https://bunpro.jp/grammar_points/%E3%81%A3%E3%81%A6
+結構（けっこう） ;; https://bunpro.jp/grammar_points/%E3%81%91%E3%81%A3%E3%81%93%E3%81%86
+Verb + まで ;; https://bunpro.jp/grammar_points/v-%E3%81%BE%E3%81%A7
+けど ;; https://bunpro.jp/grammar_points/%E3%81%91%E3%81%A9-%E3%81%A0%E3%81%91%E3%81%A9
+～ている ② ;; https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%84%E3%82%8B2
+～ている ③ ;; https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%84%E3%82%8B3
+～て (Adjectives and Nouns) ;; https://bunpro.jp/grammar_points/adjective-%E3%81%A6-noun-%E3%81%A7
+くなかった ;; https://bunpro.jp/grammar_points/%E3%81%84-Adjective-%E3%81%8F%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F
+い-Adjective (Past) ;; https://bunpro.jp/grammar_points/past-tense-%E3%81%84-adjectives
+くない ;; https://bunpro.jp/grammar_points/negative-%E3%81%84-adjectives
+る-Verb (Past) ;; https://bunpro.jp/grammar_points/%E3%82%8B-verb-past
+る-Verb (Negative-Past) ;; https://bunpro.jp/grammar_points/%E3%82%8B-verb-neg-past
+う-Verb (Negative-Past) ;; https://bunpro.jp/grammar_points/%E3%81%86-verb-neg-past
+Verb (Non-Past) ;; https://bunpro.jp/grammar_points/verb-non-past
+い-Adjective + です (Predicate) ;; https://bunpro.jp/grammar_points/%E3%81%84-adjective-predicate
+な-Adjective + だ (Predicate) ;; https://bunpro.jp/grammar_points/%E3%81%AA-adjective-predicate
+い-Adjective + (Noun) ;; https://bunpro.jp/grammar_points/%E3%81%84-adjective-noun
+な-Adjective + (Noun) ;; https://bunpro.jp/grammar_points/%E3%81%AA-adjective-noun
+と ;; https://bunpro.jp/grammar_points/%E3%81%A8-with
+で ;; https://bunpro.jp/grammar_points/%E3%81%A7-by
+～てもいい (Verb) ;; https://bunpro.jp/grammar_points/verb-%E3%81%A6%E3%82%82%E3%81%84%E3%81%84
+～てもいい ;; https://bunpro.jp/grammar_points/%E3%81%A6%E3%82%82%E3%81%84%E3%81%84
+～に行（い）く ;; https://bunpro.jp/grammar_points/verb-%E3%81%AB%E3%81%84%E3%81%8F
+じゃなかった ;; https://bunpro.jp/grammar_points/%E3%81%98%E3%82%83%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F
+じゃない ;; https://bunpro.jp/grammar_points/%E3%81%98%E3%82%83%E3%81%AA%E3%81%84
+だった・でした ;; https://bunpro.jp/grammar_points/%E3%81%A0%E3%81%A3%E3%81%9F-%E3%81%A7%E3%81%97%E3%81%9F
+う-Verb (Past) ;; https://bunpro.jp/grammar_points/%E3%81%86-verb-past
+～ている ① ;; https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%84%E3%82%8B1
+のが好（す）き ;; https://bunpro.jp/grammar_points/%E3%81%AE%E3%81%8C%E3%81%99%E3%81%8D
+んです・のです ;; https://bunpro.jp/grammar_points/-%E3%82%93%E3%81%A7%E3%81%99-%E3%81%AE%E3%81%A7%E3%81%99
+もう ;; https://bunpro.jp/grammar_points/%E3%82%82%E3%81%86
