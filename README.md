@@ -44,9 +44,9 @@ The grammar point names and JLPT level classifications used in this application 
 ### Windows
 
 1. Go to the [Releases](../../releases) page
-2. Download `GrammarDrill.exe` from the latest release
-3. Place it in a folder of your choice (e.g. `C:\GrammarDrill\`)
-4. Double-click to run
+2. Download `bunbunbun.zip` from the latest release
+3. Extract it.
+4. Double-click on `bunbunbun.exe` to run
 
 ---
 
