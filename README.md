@@ -46,7 +46,7 @@ The grammar point names and JLPT level classifications used in this application 
 1. Go to the [Releases](../../releases) page
 2. Download `bunbunbun.zip` from the latest release
 3. Extract it.
-4. Double-click on `bunbunbun.exe` to run
+4. Double-click on `bunbunbun.exe` to run. If prompted, click "More" and then "Run anyway".
 
 ---
 
