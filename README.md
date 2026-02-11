@@ -28,6 +28,15 @@ The grammar point names and JLPT level classifications used in this application 
 
 ## Screenshots
 
+<img width="664" height="765" alt="image" src="https://github.com/user-attachments/assets/d43f0740-ece5-422c-bcb2-3c48eb90c92f" />
+
+<img width="665" height="768" alt="image" src="https://github.com/user-attachments/assets/7dc0e65f-fd36-4b14-8473-e1fa5164c11f" />
+
+<img width="616" height="767" alt="image" src="https://github.com/user-attachments/assets/383ba8ed-05b7-42c7-908f-7f6f5f32ce7a" />
+
+<img width="566" height="642" alt="image" src="https://github.com/user-attachments/assets/19b2d0b0-7849-43ac-83ec-421a4c73eb35" />
+
+
 ---
 
 ## Quick Start
