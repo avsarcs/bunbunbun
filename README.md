@@ -22,7 +22,7 @@ A spaced-repetition grammar practice app for Japanese learners (or any language)
 
 This project is an unofficial application and is not affiliated with, endorsed by, or connected to Bunpro.
 
-The grammar point names and JLPT level classifications used in this application are sourced from (Bunpro.jp)[https://bunpro.jp/]. All grammar explanations and detailed content are externally linked directly to Bunpro to support their platform. All intellectual property rights regarding the original content and curriculum structure belong to Bunpro.
+The grammar point names and JLPT level classifications used in this application are sourced from [Bunpro.jp](https://bunpro.jp/). All grammar explanations and detailed content are externally linked directly to Bunpro to support their platform. All intellectual property rights regarding the original content and curriculum structure belong to Bunpro.
 
 ---
 
