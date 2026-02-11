@@ -52,23 +52,7 @@ The grammar point names and JLPT level classifications used in this application 
 
 ### Linux
 
-#### Option A — Download the binary (quickest)
-
-1. Go to the [Releases](../../releases) page
-2. Download `GrammarDrill-linux` from the latest release
-3. Open a terminal in your download folder and make it executable:
-
-```bash
-chmod +x GrammarDrill-linux
-./GrammarDrill-linux
-```
-
-> **Compatibility note:** The binary is built on Ubuntu. It will work on most Debian/Ubuntu-based distros. If it fails on your system, use Option B below.
-Also, you might need to install
-sudo apt install python3-tk
-if tkinter is not bundled with Python on your system.
-
-#### Option B — Run from source (most reliable, works on any distro)
+#### Run from source
 
 **1. Install Python 3 and tkinter**
 
@@ -224,15 +208,12 @@ chmod +x dist/GrammarDrill
 ```
 grammar-drill/
 ├── main.py                  # Entire application (single file)
-├── data/                    # Grammar level files (you create these)
-│   └── N5.txt               # Example level
+├── data/                    # Grammar level files (you can create these)
+│   └── N5.txt               # N5 through N1 grammar points included in the project
 ├── user_data/               # Auto-created on first run (gitignored)
 │   ├── progress.json
 │   ├── study_log.json
 │   └── settings.json
-├── .github/
-│   └── workflows/
-│       └── build.yml        # Auto-build EXE + Linux binary on release
 ├── install.sh               # Linux desktop shortcut installer
 ├── .gitignore
 └── README.md
@@ -244,7 +225,7 @@ grammar-drill/
 
 Issues and pull requests are welcome. A few areas that would be good to improve:
 
-- macOS binary build in CI
+- Automatic binary build Github workflows
 - Import/export of progress data
 - Support for multiple sentence inputs (one per card)
 - Anki deck export
